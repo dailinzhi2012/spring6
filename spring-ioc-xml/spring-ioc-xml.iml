@@ -12,8 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/atguigu/spring6/iocxml/di-test" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -35,5 +35,8 @@
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.17.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.30" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.19.4" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.0.31" level="project" />
   </component>
 </module>
