@@ -13,11 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
-      <module name="spring-first" target="17" />
-      <module name="spring-ioc-xml" target="17" />
       <module name="spring6" target="17" />
-      <module name="spring6-aop" target="17" />
-      <module name="spring6-ioc-annotation" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
