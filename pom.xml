@@ -10,6 +10,7 @@
     <modules>
         <module>spring-ioc-xml</module>
         <module>spring6-ioc-annotation</module>
+        <module>spring6-aop</module>
     </modules>
 
     <name>spring6</name>

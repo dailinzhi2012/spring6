@@ -7,16 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-ioc-xml" />
+        <module name="spring6-aop" />
         <module name="spring-first" />
         <module name="spring6-ioc-annotation" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17">
       <module name="spring-first" target="17" />
       <module name="spring-ioc-xml" target="17" />
       <module name="spring6" target="17" />
+      <module name="spring6-aop" target="17" />
       <module name="spring6-ioc-annotation" target="17" />
-      <module name="spring6-ioc-xml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
